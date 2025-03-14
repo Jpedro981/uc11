@@ -149,7 +149,8 @@ public class vendasVIEW extends javax.swing.JFrame {
             public void run() {
                 new vendasVIEW().setVisible(true);
             }
-        });
+        })
+                ;
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
